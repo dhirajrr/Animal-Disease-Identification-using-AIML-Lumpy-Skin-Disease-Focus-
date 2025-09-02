@@ -1,6 +1,3 @@
-Got it 👍 You want a **README.md** file (GitHub style) for your **Lumpy Skin Disease Detection Project** that matches the "Add Project" form details. Here’s a clean, professional version:
-
----
 
 # 🐄 Animal Disease Identification using AIML (Lumpy Skin Disease Focus)
 
@@ -130,6 +127,4 @@ The solution combines **Convolutional Neural Networks (CNN)** for disease detect
 This project is for **academic and research purposes**.
 For commercial use, please contact the project mentor or contributors.
 
----
 
-Would you like me to also **create the actual `README.md` file** (so you can directly upload to GitHub repo), or just keep it as formatted text?
